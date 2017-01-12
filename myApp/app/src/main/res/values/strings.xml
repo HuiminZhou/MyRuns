@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_phone">Phone Number</string>
+    <string name="text_gender">Gender</string>
+    <string name="edit_name_hint">Your name here</string>
+    <string name="edit_email_hint">Your email here</string>
+    <string name="edit_phone_hint">Your phone number here</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_male">Male</string>
+    <string name="text_major">Major</string>
+    <string name="text_upload">Change</string>
+    <string name="text_photo">Photo</string>
+    <string name="btn_save">save</string>
+    <string name="btn_close">close</string>
+
+    <string-array name="entries_major">
+        <item>Computer Science</item>
+        <item>Math</item>
+        <item>Physics</item>
+    </string-array>
+
+    <string name="PREFER_NAME">myPref</string>;
+    <string name="MY_NAME">myName</string>;
+    <string name="MY_EMAIL">myEmail</string>;
+    <string name="MY_PHONE">myPhone</string>;
+    <string name="MY_GENDER">myGender</string>;
+    <string name="MY_MAJOR">myMajor</string>;
+</resources>

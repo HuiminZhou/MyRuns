@@ -1,0 +1,7 @@
+The application supports save and close functions, and includes different sorts of Objects like RadioButton, EditText and Spinner.
+
+The change button allows user to take a photo from camera and crop it (using a 3-rd party library).
+
+The function onSaveInstanceState() allows the program to save the temporary uri, so users can rotate the screen without losing the image just taken.
+
+The type of view is scrollview.
